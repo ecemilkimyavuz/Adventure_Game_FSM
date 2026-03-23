@@ -14,7 +14,7 @@ The first part of this repository (`Original_Scenario` folder) contains the stan
 
 ---
 
-##  Part 2: The Custom Scenario ("Dark Souls" Edition)
+##  Part 2: The Custom Scenario 
 To further explore the capabilities of SystemVerilog and multi-module hardware design, the second part of this repository (`Custom_Scenario` folder) features a heavily expanded, custom 11-room FSM design.
 
 **Advanced Features & Modifications:**
